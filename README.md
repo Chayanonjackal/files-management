@@ -1,0 +1,1 @@
+This script will help you manage your directory by cetagory it from file type
