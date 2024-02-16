@@ -1,7 +1,7 @@
 import os
 import shutil
 
-# C:\Users\User\Downloads
+# C:\Users\User\Downloads\test
 
 def input_dir():
     dir = input('Input your directory...\n')
